@@ -1,7 +1,7 @@
 # R 기초와 활용(2판)
 『R 기초와 활용(2판)』 (곽기영, 도서출판 청람)
 
-Chapter 01. R 개요
+Chapter 01. R 개요\n
 Chapter 02. 벡터
 Chapter 03. 행렬
 Chapter 04. 리스트
