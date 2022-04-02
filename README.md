@@ -72,7 +72,6 @@ Chapter 12 데이터분석
 12.3 분류분석   
 12.4 텍스트분석   
 
-Appendix 부록   
-부록 A. R 설치 및 사용   
-부록 B. RStudio 설치 및 사용   
-부록 C. 연습문제 풀이   
+Appendix A R 설치 및 사용   
+Appendix B RStudio 설치 및 사용   
+Appendix C 연습문제 풀이   
