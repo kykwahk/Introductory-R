@@ -1,3 +1,4 @@
+# R 기초와 활용(제2판)
 『R 기초와 활용(제2판)』(곽기영, 도서출판 청람), https://product.kyobobook.co.kr/detail/S000000907335.   
 
 『곽기영』 채널(유튜브 동영상 강의), https://www.youtube.com/곽기영.   
